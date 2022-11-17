@@ -105,14 +105,14 @@
     INSERT INTO SpotifyClone.cancao (cancao_id, cancao, duracao, album_id)
   VALUES
     (1, 'Samba em Paris', 267, 6),
-    (2, 'Virgo`s Groove', 369, 1),
+    (2, "VIRGO’S GROOVE", 369, 1),
     (3, 'Feeling Good', 100, 8),
     (4, 'O Medo de Amar é o Medo de Ser Livre', 207, 5),
     (5, 'Under Pressure', 152, 3),
     (6, 'Break My Soul', 279, 1),
-    (7, 'Don`t Stop Me Now', 203, 2),
-    (8, 'The Bard`s Song', 244, 7),
-    (9, 'Alien Superstar', 116, 1),
+    (7, "Don’t Stop Me Now", 203, 2),
+    (8, "The Bard’s Song", 244, 7),
+    (9, "ALIEN SUPERSTAR", 116, 1),
     (10, 'Como Nossos Pais', 105, 4);  
 
   INSERT INTO SpotifyClone.reproducao (momento, cancao_id, usuario_id)
