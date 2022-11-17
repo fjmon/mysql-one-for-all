@@ -73,7 +73,7 @@
   VALUES
     (1, 'Barbara Liskov', 82, "2019-10-20", 1),
     (2, 'Robert Cecil Martin', 58, "2017-01-06", 1),
-    (3, 'Ada Lovelace', 37, "2017-12-30", 1),
+    (3, 'Ada Lovelace', 37, "2017-12-30", 4),
     (4, 'Martin Fowler', 46, "2017-01-17", 4),
     (5, 'Sandi Metz', 58, "2018-04-29", 4),
     (6, 'Paulo Freire', 19, "2018-02-14", 2),
